@@ -4,7 +4,7 @@
 
 First off, clone this repository(choose a suitable location to clone in)
 ```bash
-git clone https://github.com/femiblack/mrsoft-training-demo.git
+git clone https://github.com/MRSoftTraining/mrsoft-training-demo.git
 ```
 
 Then navigate into this cloned repo.
