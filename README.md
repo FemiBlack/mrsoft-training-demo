@@ -29,6 +29,6 @@ After you've successfully pushed, make a pull request to get it merged into the 
 **Helpful Links**
 
 - Need help on pull requests? => [Github: Creating A Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-- [Setting up SSH on Github](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+- [Setting up SSH on Github: Linux, Git Bash](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 - [Github SSH: Windows](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Windows-Example)
 - [First time Git setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
